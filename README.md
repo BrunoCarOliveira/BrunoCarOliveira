@@ -1,5 +1,5 @@
 ### Hi there 👋
-Olá sou o Bruno Cardoso, sou um programador Front End.
+Olá sou o Bruno Cardoso, sou um futuro programador Front End.
 Atualmente estou estudando e criando projetos com:
 <br>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
